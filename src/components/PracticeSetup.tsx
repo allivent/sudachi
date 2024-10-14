@@ -39,7 +39,7 @@ function PracticeSetup(
         </div>
       </Block>
       <Block paddingTop="10px">
-        <h4>Select type</h4>
+        <h4>Hello Haru</h4>
         <div className="practice-select">
           <ButtonGroup
             mode={MODE.radio}
